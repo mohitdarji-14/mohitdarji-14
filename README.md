@@ -15,7 +15,11 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: 
+
            💠 I like playing games.
+           
            💠 Sometimes I create fun and creative things based on what I learn in my academy.
-           💠 I also like to exercise sometimes.
+           
+           💠 I also like to exercise sometimes
+           .
            💠 I enjoy traveling and exploring new places.
