@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-🔭 I’m currently working on web development projects
+🔭 I’m currently working on web development projects.
 
-🌱 I’m currently learning HTML, CSS, JavaScript, and Cyber Security
+🌱 I’m currently learning HTML, CSS, JavaScript, and Cyber Security.
 
-👯 I’m looking to collaborate on beginner-friendly web projects
+👯 I’m looking to collaborate on beginner-friendly web projects.
 
-🤔 I’m looking for help with improving my coding skills
+🤔 I’m looking for help with improving my coding skills.
 
-💬 Ask me about HTML, basic JavaScript, and C programming
+🔥 I'm also make a beginner portfolio-site.
+
+💬 Ask me about HTML, basic JavaScript, and C programming.
 
 📫 How to reach me: mohitda3343@gmail.com
 
