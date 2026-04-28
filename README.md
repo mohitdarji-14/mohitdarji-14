@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on web development projects.
+🔭 I’m currently learning JavaScript from YouTubr on trustable source.
 
 🌱 I’m currently learning HTML, CSS, JavaScript, and Cyber Security.
 
@@ -18,10 +18,14 @@
 
 ⚡ Fun fact: 
 
-           💠 I like playing games.
+           💠 Sometimes I like to watch sports tournaments, like football or basketball.
+           
+           💠 I also play console titles on my PC, like Red Dead Redemption 2, God of War, and Ghost of Tsushima.
            
            💠 Sometimes I create fun and creative things based on what I learn in my academy.
            
-           💠 I also like to exercise sometimes
-           .
+           💠 I also like to exercise sometimes.
+           
            💠 I enjoy traveling and exploring new places.
+
+          
