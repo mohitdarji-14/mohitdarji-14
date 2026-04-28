@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with improving my coding skills.
 
-🔥 I'm also make a beginner portfolio-site.
+🔥 I'm also make a beginner friendly portfolio-site.
 
 💬 Ask me about HTML, basic JavaScript, and C programming.
 
