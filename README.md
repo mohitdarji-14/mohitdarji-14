@@ -12,8 +12,6 @@
 
 💬 Ask me about HTML, basic JavaScript, and C programming.
 
-📫 How to reach me: mohitda3343@gmail.com
-
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: 
