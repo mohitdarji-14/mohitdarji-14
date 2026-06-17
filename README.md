@@ -2,7 +2,7 @@
 
 🔭 I’m currently learning JavaScript from YouTubr on trustable source.
 
-🌱 I’m currently learning HTML, CSS, JavaScript, Python.
+🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 
 👯 I’m looking to collaborate on beginner-friendly web projects.
 
