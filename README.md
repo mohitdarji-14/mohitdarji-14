@@ -16,11 +16,16 @@
 
 ### ⚡ A Few Fun Facts About Me
 
-💠 I enjoy catching sports tournaments now and then — football and basketball are my favorites
-💠 When I'm not coding, you'll find me gaming on PC — titles like *Red Dead Redemption 2*, *God of War*, and *Ghost of Tsushima* are personal favorites
-💠 I like turning what I learn in my courses into small, creative projects
-💠 Staying active through exercise is part of my routine
-💠 Exploring new places and traveling is something I genuinely love
+    💠 I enjoy catching sports tournaments now and then — football and basketball are my favorites
+    
+    💠 When I'm not coding, you'll find me gaming on PC — titles like *Red Dead Redemption 2*, *God of War*, and *Ghost of Tsushima* are personal favorites
+    
+    💠 I like turning what I learn in my courses into small, creative projects
+    
+    💠 Staying active through exercise is part of my routine
+    
+    💠 Exploring new places and traveling is something I genuinely love
+    
 
 ---
 
