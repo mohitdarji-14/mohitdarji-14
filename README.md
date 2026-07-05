@@ -1,29 +1,33 @@
-## Hi there 👋
+### Hey there, I'm Mohit 👋
 
-🔭 I’m currently learning JavaScript from YouTubr on trustable source.
+🔭 Currently sharpening my JavaScript skills through trusted YouTube tutorials
 
-🌱 I’m currently learning HTML, CSS, JavaScript and Python.
+🌱 Actively learning HTML, CSS, JavaScript, and Python
 
-👯 I’m looking to collaborate on beginner-friendly web projects.
+👯 Open to collaborating on beginner-friendly web development projects
 
-🤔 I’m looking for help with improving my coding skills.
+🤔 Always seeking guidance to level up my coding abilities
 
-🔥 I'm also make a beginner friendly portfolio-site.
+🔥 Building a beginner-friendly portfolio website from scratch
 
-💬 Ask me about HTML, basic JavaScript, and C programming.
+💬 Feel free to reach out about HTML, JavaScript basics, or C programming
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: 
+### ⚡ A Few Fun Facts About Me
 
-           💠 Sometimes I like to watch sports tournaments, like football or basketball.
-           
-           💠 I also play console titles on my PC, like Red Dead Redemption 2, God of War, and Ghost of Tsushima.
-           
-           💠 Sometimes I create fun and creative things based on what I learn in my academy.
-           
-           💠 I also like to exercise sometimes.
-           
-           💠 I enjoy traveling and exploring new places.
+💠 I enjoy catching sports tournaments now and then — football and basketball are my favorites
+💠 When I'm not coding, you'll find me gaming on PC — titles like *Red Dead Redemption 2*, *God of War*, and *Ghost of Tsushima* are personal favorites
+💠 I like turning what I learn in my courses into small, creative projects
+💠 Staying active through exercise is part of my routine
+💠 Exploring new places and traveling is something I genuinely love
 
-          
+---
+
+### 🛠️ Tech Stack
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `C`
+
+### 📫 Let's Connect
+
+Always happy to team up on beginner-friendly projects or swap coding tips!
