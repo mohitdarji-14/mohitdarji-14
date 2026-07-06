@@ -153,11 +153,9 @@ I'm always excited to connect with fellow learners, developers, and mentors. Whe
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohitdarji-14&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitdarji-14&theme=tokyonight" alt="GitHub Streak" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitdarji-14&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?...">
+<img src="https://github-readme-streak-stats.herokuapp.com/...">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/...">
 <p>
   <i>⭐ Star my repos if you find them helpful — it motivates me to keep building! ⭐</i>
 </p>
