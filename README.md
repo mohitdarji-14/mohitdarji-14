@@ -106,8 +106,11 @@
 ### 💡 How I Approach Development
 
 - 🔍 I debug methodically, treating bugs as information, not obstacles
+  
 - 🧩 I prioritize clean, readable code over clever shortcuts
+  
 - 📝 I document what I build so it's easy for others (and future me) to follow
+  
 - 🌍 I'm focused on using full-stack development to build tools that solve real problems
 
 ---
@@ -184,11 +187,11 @@ I'm always excited to connect with fellow learners, developers, and mentors. Whe
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit123&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
