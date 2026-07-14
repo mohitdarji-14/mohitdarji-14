@@ -96,7 +96,7 @@ A collection of UI components and creative designs built using only HTML and CSS
 
 ## 📚 Currently Learning
 
-* Modern JavaScript (ES6+)
+* Large Language Model
   
 * Responsive Web Design
   
