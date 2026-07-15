@@ -97,8 +97,10 @@ A collection of UI components and creative designs built using only HTML and CSS
 ### ✅Completed project 
 
 * Calculator with python code
-* 
+  
 * Other small project is cooming soon.
+
+---
 
 ## 📚 Currently Learning
 
