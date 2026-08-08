@@ -120,16 +120,15 @@ A collection of UI components and creative designs built using only HTML and CSS
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src ="./github-contribution-stats.svg"
+  <img
+    src="./github-contribution-stats.svg"
     alt="GitHub Contribution Statistics"
     width="100%"
   />
 </p>
 
-
+---
 ---
 
 ## 🌟 Beyond Coding
