@@ -64,7 +64,8 @@ today = date.today()
 total_contributions = calendar["totalContributions"]
 
 year_contributions = sum(
-    d["count"] for d in days
+    d["count"]
+    for d in days
     if d["date"].year == today.year
 )
 
@@ -125,92 +126,186 @@ for index, item in enumerate(graph_days):
     y = graph_y + (index % 7) * (cell_size + cell_gap)
 
     svg_cells.append(
-        f'''
+        f"""
         <rect
             x="{x}"
             y="{y}"
             width="{cell_size}"
             height="{cell_size}"
             rx="3"
-            fill="{item["color"]}">
-            <title>{item["date"]}: {item["count"]} contributions</title>
+            fill="{item['color']}">
+            <title>
+                {item['date']}: {item['count']} contributions
+            </title>
         </rect>
-        '''
+        """
     )
 
 graph_width = ((len(graph_days) // 7) + 1) * (cell_size + cell_gap)
 
-svg = f'''<svg width="100%" height="330"
+svg = f"""<svg
+width="100%"
+height="330"
 viewBox="0 0 {max(900, graph_width + 70)} 330"
 xmlns="http://www.w3.org/2000/svg">
 
-<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
+<rect
+width="100%"
+height="100%"
+rx="16"
+fill="#0d1117"/>
 
-<text x="30" y="35"
-      fill="#f0f6fc"
-      font-size="20"
-      font-family="Arial, sans-serif"
-      font-weight="700">
-  GitHub Contribution Stats
-</text>
-
-<text x="30" y="58"
-      fill="#8b949e"
-      font-size="13"
-      font-family="Arial, sans-serif">
-  @{USERNAME}
-</text>
-
-<rect x="30" y="75" width="175" height="52" rx="10" fill="#161b22"/>
-<text x="43" y="96" fill="#8b949e" font-size="11" font-family="Arial">
-  Total Contributions
-</text>
-<text x="43" y="116" fill="#f0f6fc" font-size="18"
-      font-weight="700" font-family="Arial">
-  {total_contributions:,}
+<text
+x="30"
+y="35"
+fill="#f0f6fc"
+font-size="20"
+font-family="Arial, sans-serif"
+font-weight="700">
+GitHub Contribution Stats
 </text>
 
-<rect x="215" y="75" width="175" height="52" rx="10" fill="#161b22"/>
-<text x="228" y="96" fill="#8b949e" font-size="11" font-family="Arial">
-  Current Streak
-</text>
-<text x="228" y="116" fill="#f0f6fc" font-size="18"
-      font-weight="700" font-family="Arial">
-  {current_streak} days
-</text>
-
-<rect x="400" y="75" width="175" height="52" rx="10" fill="#161b22"/>
-<text x="413" y="96" fill="#8b949e" font-size="11" font-family="Arial">
-  Longest Streak
-</text>
-<text x="413" y="116" fill="#f0f6fc" font-size="18"
-      font-weight="700" font-family="Arial">
-  {longest_streak} days
+<text
+x="30"
+y="58"
+fill="#8b949e"
+font-size="13"
+font-family="Arial, sans-serif">
+@{USERNAME}
 </text>
 
-<rect x="585" y="75" width="175" height="52" rx="10" fill="#161b22"/>
-<text x="598" y="96" fill="#8b949e" font-size="11" font-family="Arial">
-  This Year
-</text>
-<text x="598" y="116" fill="#f0f6fc" font-size="18"
-      font-weight="700" font-family="Arial">
-  {year_contributions:,}
+<rect
+x="30"
+y="75"
+width="175"
+height="52"
+rx="10"
+fill="#161b22"/>
+
+<text
+x="43"
+y="96"
+fill="#8b949e"
+font-size="11"
+font-family="Arial">
+Total Contributions
 </text>
 
-<text x="30" y="135"
-      fill="#f0f6fc"
-      font-size="13"
-      font-family="Arial"
-      font-weight="600">
-  Contribution Graph
+<text
+x="43"
+y="116"
+fill="#f0f6fc"
+font-size="18"
+font-weight="700"
+font-family="Arial">
+{total_contributions:,}
+</text>
+
+<rect
+x="215"
+y="75"
+width="175"
+height="52"
+rx="10"
+fill="#161b22"/>
+
+<text
+x="228"
+y="96"
+fill="#8b949e"
+font-size="11"
+font-family="Arial">
+Current Streak
+</text>
+
+<text
+x="228"
+y="116"
+fill="#f0f6fc"
+font-size="18"
+font-weight="700"
+font-family="Arial">
+{current_streak} days
+</text>
+
+<rect
+x="400"
+y="75"
+width="175"
+height="52"
+rx="10"
+fill="#161b22"/>
+
+<text
+x="413"
+y="96"
+fill="#8b949e"
+font-size="11"
+font-family="Arial">
+Longest Streak
+</text>
+
+<text
+x="413"
+y="116"
+fill="#f0f6fc"
+font-size="18"
+font-weight="700"
+font-family="Arial">
+{longest_streak} days
+</text>
+
+<rect
+x="585"
+y="75"
+width="175"
+height="52"
+rx="10"
+fill="#161b22"/>
+
+<text
+x="598"
+y="96"
+fill="#8b949e"
+font-size="11"
+font-family="Arial">
+This Year
+</text>
+
+<text
+x="598"
+y="116"
+fill="#f0f6fc"
+font-size="18"
+font-weight="700"
+font-family="Arial">
+{year_contributions:,}
+</text>
+
+<text
+x="30"
+y="135"
+fill="#f0f6fc"
+font-size="13"
+font-family="Arial"
+font-weight="600">
+Contribution Graph
 </text>
 
 {"".join(svg_cells)}
 
 </svg>
-'''
+"""
 
-with open("github-contribution-stats.svg", "w", encoding="utf-8") as file:
+with open(
+    "github-contribution-stats.svg",
+    "w",
+    encoding="utf-8"
+) as file:
     file.write(svg)
 
 print("Contribution statistics generated successfully.")
+print(f"Total Contributions: {total_contributions}")
+print(f"Current Streak: {current_streak}")
+print(f"Longest Streak: {longest_streak}")
+print(f"Contributions This Year: {year_contributions}")
