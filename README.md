@@ -120,13 +120,15 @@ A collection of UI components and creative designs built using only HTML and CSS
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src ="./github-contribution-stats.svg"
+    alt="GitHub Contribution Statistics"
+    width="100%"
+  />
 </p>
+
 
 ---
 
