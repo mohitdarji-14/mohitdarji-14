@@ -28,7 +28,7 @@ jobs:
       - name: Generate contribution statistics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: https://github.com/mohitdarji-14
+          GITHUB_USERNAME: mohitdarji-14
         run: python generate_stats.py
 
       - name: Save updated statistics
