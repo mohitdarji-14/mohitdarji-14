@@ -144,7 +144,7 @@ A collection of UI components and creative designs built using only HTML and CSS
 
 I'm always happy to connect with fellow developers, learners, and mentors.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/mohitdarji-14)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
