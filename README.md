@@ -68,14 +68,6 @@ I'm currently strengthening my JavaScript fundamentals and working toward becomi
 
 ## 📂 Featured Projects
 
-### 🌐 Portfolio Website
-
-A responsive personal portfolio showcasing my projects, skills, and development journey.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
 ### 🧮 Calculator App
 
 A clean calculator application built with vanilla JavaScript to strengthen DOM manipulation and event handling skills.
