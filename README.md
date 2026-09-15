@@ -4,7 +4,7 @@
 
 I'm an IT/CS engineering student passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects while continuously improving my problem-solving and programming skills.
 
-I'm currently strengthening my JavaScript fundamentals and working toward becoming a Full Stack Developer through hands-on projects, consistent learning, and real-world practice.
+I'm currently strengthening my Java fundamentals and working toward becoming a Full Stack Developer through hands-on projects, consistent learning, and real-world practice.
 
 ---
 
