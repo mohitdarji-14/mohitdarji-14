@@ -28,7 +28,7 @@ I'm currently strengthening my Java fundamentals and working toward becoming a F
   
 * 📘 Focusing on core Java
   
-* 📱 Building fully responsive websites
+* 📱 On SQL database
   
 * 🐍 Strengthening programming fundamentals with Python
   
