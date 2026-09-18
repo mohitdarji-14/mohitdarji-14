@@ -26,7 +26,7 @@ I'm currently strengthening my Java fundamentals and working toward becoming a F
 
 * 🌐 Completing and deploying my personal portfolio website
   
-* 📘 Mastering modern JavaScript (ES6+)
+* 📘 Focusing on core Java
   
 * 📱 Building fully responsive websites
   
