@@ -44,7 +44,7 @@ I'm currently strengthening my Java fundamentals and working toward becoming a F
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Basics](https://img.shields.io/badge/JavaScript%20Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java Basics](https://img.shields.io/badge/Java%20Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Currently Learning
